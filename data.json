@@ -1,0 +1,22 @@
+[
+    {
+        "fName": "raja",
+        "email": "raja@gmail.com",
+        "Age": 25
+    },
+    {
+        "fName": "deepto",
+        "email": "deepti@gmail.com",
+        "Age": 41
+    },
+    {
+        "fName": "deba",
+        "email": "deba@gmail.com",
+        "Age": 77
+    },
+    {
+        "fName": "mgh",
+        "email": "mgh@gmail.com",
+        "Age": 56
+    }
+]
